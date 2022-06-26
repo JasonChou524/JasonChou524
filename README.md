@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasonChou524
-- 👀 I’m interested in Front-end
+- 👀 I’m interested in website development
 - 🌱 I’m currently learning JavaScript
 
 <!---
